@@ -1,1 +1,1 @@
-console.log("VIG'S Website Loaded");
+console.log("VIG'S Mobile Welding & Repair Loaded");
