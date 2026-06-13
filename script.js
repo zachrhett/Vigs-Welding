@@ -1,3 +1,1 @@
-document.addEventListener("DOMContentLoaded", () => {
-  console.log("VIG'S Mobile Welding & Repair website loaded.");
-});
+console.log("VIG'S Website Loaded");
